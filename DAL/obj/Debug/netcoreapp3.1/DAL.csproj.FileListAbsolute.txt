@@ -1,0 +1,12 @@
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Ayşegül Ülker\Desktop\Ayşegül_Çalışma\Bilge_Adam_Yazilim_Egitimi\Derste_Yapılanlar\Project\NetCoreETicaret\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
